@@ -1,2 +1,2 @@
-domonstrate git
+domonstrate git merge conflict identified
 
